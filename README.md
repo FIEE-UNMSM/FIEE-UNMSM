@@ -28,7 +28,7 @@ Se agredece en gran manera a los colaboradores que brindaron su apoyo para que e
 
 | CAPÍTULO O GRUPO | REDES SOCIALES |
 | ------ | ------ |
-| RAS UNMSM | <a href="https://web.facebook.com/ieeerasunmsm" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1024px-2023_Facebook_icon.svg.png" alt="typescript" width="40" height="40"/></a> <a href="" target="_blank" rel="noreferrer"><img src="https://toppng.com/uploads/preview/amazing-instagram-logo-png-image-116416804026i4s6a6u66.png" alt="typescript" width="40" height="40"/></a> |
+| RAS UNMSM | <a href="https://web.facebook.com/ieeerasunmsm" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1024px-2023_Facebook_icon.svg.png" alt="typescript" width="40" height="40"/></a> <a href="https://www.instagram.com/ieee.ras.unmsm/" target="_blank" rel="noreferrer"><img src="https://toppng.com/uploads/preview/amazing-instagram-logo-png-image-116416804026i4s6a6u66.png" alt="typescript" width="40" height="40"/></a> |
 | GRSM | <a href="https://web.facebook.com/ieeerasunmsm" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1024px-2023_Facebook_icon.svg.png" alt="typescript" width="40" height="40"/></a> |
 
 ## CONTACTANOS
